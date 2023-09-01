@@ -13,7 +13,7 @@ const About = () => {
     <div className={`about-container ${inView ? 'slide' : ''}`} ref={ref}>
       <div className="about-card">
         <div className="image-container">
-          <img id="image" src="/photo.JPG" alt="Your Photo" />
+          <img id="image" src="public/photo.JPG" alt="Your Photo" />
         </div>
         <div className="details">
           <h2>About Me</h2>
