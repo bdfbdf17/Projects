@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bdfbdf17.github.io/Projects/static/css/main.9c27f5da.css",
-    "main.js": "/bdfbdf17.github.io/Projects/static/js/main.0ced1a27.js",
-    "static/js/787.57b6ce53.chunk.js": "/bdfbdf17.github.io/Projects/static/js/787.57b6ce53.chunk.js",
-    "static/media/background.jpg": "/bdfbdf17.github.io/Projects/static/media/background.b1cfc78d40c2c8d0c62e.jpg",
-    "index.html": "/bdfbdf17.github.io/Projects/index.html",
-    "main.9c27f5da.css.map": "/bdfbdf17.github.io/Projects/static/css/main.9c27f5da.css.map",
-    "main.0ced1a27.js.map": "/bdfbdf17.github.io/Projects/static/js/main.0ced1a27.js.map",
-    "787.57b6ce53.chunk.js.map": "/bdfbdf17.github.io/Projects/static/js/787.57b6ce53.chunk.js.map"
+    "main.css": "/bdfbdf17.github.io/projects/static/css/main.7204d630.css",
+    "main.js": "/bdfbdf17.github.io/projects/static/js/main.935d9915.js",
+    "static/js/787.57b6ce53.chunk.js": "/bdfbdf17.github.io/projects/static/js/787.57b6ce53.chunk.js",
+    "static/media/background.jpg": "/bdfbdf17.github.io/projects/static/media/background.b1cfc78d40c2c8d0c62e.jpg",
+    "index.html": "/bdfbdf17.github.io/projects/index.html",
+    "main.7204d630.css.map": "/bdfbdf17.github.io/projects/static/css/main.7204d630.css.map",
+    "main.935d9915.js.map": "/bdfbdf17.github.io/projects/static/js/main.935d9915.js.map",
+    "787.57b6ce53.chunk.js.map": "/bdfbdf17.github.io/projects/static/js/787.57b6ce53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c27f5da.css",
-    "static/js/main.0ced1a27.js"
+    "static/css/main.7204d630.css",
+    "static/js/main.935d9915.js"
   ]
 }
