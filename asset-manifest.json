@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bdfbdf17.github.io/Portfolioww/static/css/main.2a1fbfd0.css",
+    "main.js": "/bdfbdf17.github.io/Portfolioww/static/js/main.807f56c8.js",
+    "static/js/787.57b6ce53.chunk.js": "/bdfbdf17.github.io/Portfolioww/static/js/787.57b6ce53.chunk.js",
+    "static/media/background.jpg": "/bdfbdf17.github.io/Portfolioww/static/media/background.b1cfc78d40c2c8d0c62e.jpg",
+    "index.html": "/bdfbdf17.github.io/Portfolioww/index.html",
+    "main.2a1fbfd0.css.map": "/bdfbdf17.github.io/Portfolioww/static/css/main.2a1fbfd0.css.map",
+    "main.807f56c8.js.map": "/bdfbdf17.github.io/Portfolioww/static/js/main.807f56c8.js.map",
+    "787.57b6ce53.chunk.js.map": "/bdfbdf17.github.io/Portfolioww/static/js/787.57b6ce53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a1fbfd0.css",
+    "static/js/main.807f56c8.js"
+  ]
+}
